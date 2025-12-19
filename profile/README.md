@@ -10,17 +10,17 @@ Open-source humanoid robots. Hardware, firmware, perception, locomotion.
 
 | Repository | Description |
 |------------|-------------|
-| [asimov-firmware](https://github.com/asimovinc/asimov-firmware) | Real-time motor control on ARM64. CAN drivers, IMU integration, Protobuf telemetry. |
-| [asimov-manager](https://github.com/asimovinc/asimov-manager) | Perception unit. Cameras, microphones, cloud data streaming. |
+| [asimov-firmware](https://github.com/asimovinc/asimov-firmware) | Real-time C/C++ motor control on ARM64. CAN drivers, IMU integration, Protobuf control. |
+| [asimov-manager](https://github.com/asimovinc/asimov-manager) | Perception unit. Cameras, microphones, cloud data and telemetry streaming. |
 | [asimov-mjlab](https://github.com/asimovinc/asimov-mjlab) | Locomotion training. MuJoCo simulation, RL policies, sim-to-real deployment. |
 
 ## What's Open Source
 
 - **Mechanical**: Full CAD, BOM, assembly docs.
 - **Electrical**: Schematics, PCB layouts, power distribution.
-- **Firmware**: Real-time C on ARM64.
-- **Manager**: Perception and data collection.
-- **Locomotion**: ONNX policies. Train in sim, deploy on hardware.
+- **Asimov Firmware**: Real-time C/C++ motor control and ONNX runtime.
+- **Asimov Manager**: Perception and data collection.
+- **Locomotion**: Locomotion policies. Train in sim, deploy on hardware.
 
 ## Get Involved
 
