@@ -1,31 +1,34 @@
 # Asimov
 
-Open-source humanoid robots. Hardware, firmware, perception, locomotion.
+Open-source humanoid robots. Hardware, firmware, perception, autonomy.
 
-[![Website](https://img.shields.io/badge/Website-asimov.menlo.ai-blue)](https://asimov.menlo.ai/)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/VzDJRmHF)
-[![Email](https://img.shields.io/badge/Email-asimov@menlo.ai-red?logo=gmail&logoColor=white)](mailto:asimov@menlo.ai)
+<p align="center">
+  <a href="https://asimov.inc/">Website</a> •
+  <a href="https://discord.gg/VzDJRmHF">Discord</a> •
+  <a href="https://asimov.inc/docs">Docs</a>
+</p>
 
 ## Repositories
 
-| Repository | Description |
-|------------|-------------|
-| [asimov-firmware](https://github.com/asimovinc/asimov-firmware) | Real-time C/C++ motor control on ARM64. CAN drivers, IMU integration, Protobuf control. |
-| [asimov-manager](https://github.com/asimovinc/asimov-manager) | Perception unit. Cameras, microphones, cloud data and telemetry streaming. |
-| [asimov-mjlab](https://github.com/asimovinc/asimov-mjlab) | Locomotion training. MuJoCo simulation, RL policies, sim-to-real deployment. |
+| Repository | What it does |
+|------------|--------------|
+| [asimov-firmware](https://github.com/asimovinc/asimov-firmware) | Motor control, IMU, RL policy execution. Runs on Motion Control Board. |
+| [asimov-manager](https://github.com/asimovinc/asimov-manager) | Cameras, audio, network streaming. Runs on Perception Controller. |
+| [asimov-lab](https://github.com/asimovinc/asimov-lab) | MuJoCo simulation, RL training, sim-to-real. |
 
-## What's Open Source
+## Join Us
 
-- **Mechanical**: Full CAD, BOM, assembly docs.
-- **Electrical**: Schematics, PCB layouts, power distribution.
-- **Asimov Firmware**: Real-time C/C++ motor control and ONNX runtime.
-- **Asimov Manager**: Perception and data collection.
-- **Locomotion**: Locomotion policies. Train in sim, deploy on hardware.
+Building a robot? Have questions? Want to contribute?
 
-## Get Involved
+**[Join the Discord →](https://discord.gg/VzDJRmHF)**
 
-Clone a repo. Build something. Open a PR.
+We're a small group working on making humanoid robots accessible. Drop by, say hi, share what you're building.
 
-## The Goal
+## Contact
 
-Free the robot.
+- Discord: [discord.gg/VzDJRmHF](https://discord.gg/VzDJRmHF)
+- Email: asimov@menlo.ai
+
+---
+
+*Free the robot.*
