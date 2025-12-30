@@ -2,11 +2,9 @@
 
 Open-source humanoid robots. Hardware, firmware, perception, autonomy.
 
-<p align="center">
-  <a href="https://asimov.inc/">Website</a> •
-  <a href="https://discord.gg/VzDJRmHF">Discord</a> •
-  <a href="https://asimov.inc/docs">Docs</a>
-</p>
+[![Website](https://img.shields.io/badge/Website-asimov.inc-blue)](https://asimov.inc/)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/8TmTEg3U54)
+[![Email](https://img.shields.io/badge/Email-asimov@menlo.ai-red?logo=gmail&logoColor=white)](mailto:asimov@menlo.ai)
 
 ## Repositories
 
@@ -20,13 +18,13 @@ Open-source humanoid robots. Hardware, firmware, perception, autonomy.
 
 Building a robot? Have questions? Want to contribute?
 
-**[Join the Discord →](https://discord.gg/VzDJRmHF)**
+**[Join the Discord →](https://discord.gg/8TmTEg3U54)**
 
-We're a small group working on making humanoid robots accessible. Drop by, say hi, share what you're building.
+We're working to accelerate humanoid robot adoption with the community. Drop by, share what you're building.
 
 ## Contact
 
-- Discord: [discord.gg/VzDJRmHF](https://discord.gg/VzDJRmHF)
+- Discord: [discord.gg/8TmTEg3U54](https://discord.gg/8TmTEg3U54)
 - Email: asimov@menlo.ai
 
 ---
