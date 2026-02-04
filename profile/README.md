@@ -4,7 +4,7 @@ Open-source humanoid robots by Menlo Research.
 
 [![Website](https://img.shields.io/badge/Website-asimov.inc-blue)](https://asimov.inc/)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/8TmTEg3U54)
-[![Email](https://img.shields.io/badge/Email-asimov@menlo.ai-red?logo=gmail&logoColor=white)](mailto:hello@menlo.ai)
+[![Email](https://img.shields.io/badge/Email-hello@menlo.ai-red?logo=gmail&logoColor=white)](mailto:hello@menlo.ai)
 
 
 ## Join Us
