@@ -10,7 +10,7 @@ An open platform to create, test, and deploy AI agents into humanoid robots.
 
 
 ## Welcome to the Anti-Robot Robot Club!
-![alt text](anti_robot_club.gif)
+![alt text](anti_robot_robot_club.gif)
 
 ## Get Started
 
