@@ -10,7 +10,7 @@ An open platform to create, test, and deploy AI agents into humanoid robots.
 
 
 ## Welcome to the Anti-Robot Robot Club!
-![alt text](Clipboard-20260213-064207-848.gif)
+![alt text](anti_robot_club.gif)
 
 ## Get Started
 
@@ -35,6 +35,6 @@ We believe enabling embodied agents at scale requires the following:
 
 <br>
 
-![alt text](image.png)
+![alt text](ill_behaved_robots.png)
 
 Asimov is developed by [Menlo Research](https://menlo.ai). Our other "robots" in the wild include [Jan](https://jan.ai), a personal intelligence.
