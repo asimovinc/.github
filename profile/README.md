@@ -1,25 +1,40 @@
 # Asimov
 
-Open-source humanoid robots by Menlo Research.
+An open platform to create, test, and deploy AI agents into humanoid robots.
 
 [![Website](https://img.shields.io/badge/Website-asimov.inc-blue)](https://asimov.inc/)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/8TmTEg3U54)
-[![Email](https://img.shields.io/badge/Email-hello@menlo.ai-red?logo=gmail&logoColor=white)](mailto:hello@menlo.ai)
+[![X](https://img.shields.io/badge/X-@asimovinc-000000?logo=x&logoColor=white)](https://x.com/asimovinc)
+[![YouTube](https://img.shields.io/badge/YouTube-@asimovinc-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@asimovinc)
+[![Email](https://img.shields.io/badge/Email-asimov@menlo.ai-red?logo=gmail&logoColor=white)](mailto:asimov@menlo.ai)
 
 
-## Join Us
+## Welcome to the Anti-Robot Robot Club!
+![alt text](Clipboard-20260213-064207-848.gif)
 
-Building a robot? Have questions? Want to contribute?
+## Get Started
 
-**[Join the Discord →](https://discord.gg/8TmTEg3U54)**
+* Humanoid Reference Design: [Asimov v0](https://github.com/asimovinc/asimov-v0)
+* Software: *coming soon*
 
-We're working to accelerate humanoid robot adoption with the community. Drop by, share what you're building.
+## Why?
 
-## Contact
+We believe enabling embodied agents at scale requires the following:
 
-- Discord: [discord.gg/8TmTEg3U54](https://discord.gg/8TmTEg3U54)
-- Email: asimov@menlo.ai
+* **AI-software-hardware co-design**: for reliable sim2real transfer
+* **Modular components**: customizable limbs & actuators, with the right to repair
+* **Designed for manufacturing**: affordable, globally accessible parts with no shipping delays
 
----
+## Contribute
 
-*Free the robot.*
+* 👥 **Community**: Join the club on [Discord](https://discord.gg/zHS5ejhZUE)
+* 🔬 **Collaborations**: Interested in joint research? Join the [Discord](https://discord.gg/zHS5ejhZUE)
+* 💰 **Sponsor**: Become an early [Asimov Supporter](https://asimov.inc/early)
+* 🏭 **Manufacturers (OEMs, SIs)**: Want to sell a humanoid? [Contact us](https://tally.so/r/J9O5BJ)
+* 🛒 **Buyers**: Looking to buy a humanoid? [Contact us](https://tally.so/r/J9O5BJ)
+
+<br>
+
+![alt text](image.png)
+
+Asimov is developed by [Menlo Research](https://menlo.ai). Our other "robots" in the wild include [Jan](https://jan.ai), a personal intelligence.
