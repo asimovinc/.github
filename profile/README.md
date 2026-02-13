@@ -1,6 +1,6 @@
 # Asimov
 
-An open platform to create, test, and deploy AI agents into humanoid robots.
+Asimov is an open source, bipedal humanoid robot.
 
 [![Website](https://img.shields.io/badge/Website-asimov.inc-blue)](https://asimov.inc/)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/8TmTEg3U54)
@@ -9,8 +9,7 @@ An open platform to create, test, and deploy AI agents into humanoid robots.
 [![Email](https://img.shields.io/badge/Email-asimov@menlo.ai-red?logo=gmail&logoColor=white)](mailto:asimov@menlo.ai)
 
 
-## Welcome to the Anti-Robot Robot Club!
-![alt text](anti_robot_robot_club.gif)
+![alt text](image.png)
 
 ## Get Started
 
