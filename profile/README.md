@@ -34,6 +34,4 @@ We believe enabling embodied agents at scale requires the following:
 
 <br>
 
-![alt text](ill_behaved_robots.png)
-
 Asimov is developed by [Menlo Research](https://menlo.ai). Our other "robots" in the wild include [Jan](https://jan.ai), a personal intelligence.
