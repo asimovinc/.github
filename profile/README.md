@@ -13,7 +13,7 @@ Asimov is an open source, bipedal humanoid robot.
 
 ## Build Manuals
 
-* [Asimov v1](https://manual.asimov.inc/v1): Humanoid whole body (Open sourced March 31, 2026)
+* [Asimov v1](https://manual.asimov.inc/v1): Humanoid whole body (Open sourced April 27, 2026)
 * [Asimov v0](https://manual.asimov.inc/v0): Humanoid legs (Open sourced Jan 2026)
 
 ## Why?
