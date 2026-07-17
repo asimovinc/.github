@@ -1,37 +1,28 @@
 # Asimov
 
-Asimov is an open source, bipedal humanoid robot.
+Asimov is an open reference humanoid by [Menlo Research](https://menlo.ai), designed to bootstrap a global ecosystem across manufacturing, servicing and supply chain.
 
-[![Website](https://img.shields.io/badge/Website-asimov.inc-blue)](https://asimov.inc/)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/8TmTEg3U54)
-[![X](https://img.shields.io/badge/X-@asimovinc-000000?logo=x&logoColor=white)](https://x.com/asimovinc)
-[![YouTube](https://img.shields.io/badge/YouTube-@asimovinc-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@asimovinc)
-[![Email](https://img.shields.io/badge/Email-asimov@menlo.ai-red?logo=gmail&logoColor=white)](mailto:asimov@menlo.ai)
+[![Website](https://img.shields.io/badge/-Website-ff5c00?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPGxpbmUgeDE9IjIiIHkxPSIxMiIgeDI9IjIyIiB5Mj0iMTIiLz48cGF0aCBkPSJNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiLz48L3N2Zz4%3D)](https://asimov.inc/)
+&nbsp;[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/zHS5ejhZUE)
+&nbsp;[![X](https://img.shields.io/badge/-@asimovinc-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xLjEgLTEgMjYgMjYiIGZpbGw9IndoaXRlIj48cGF0aCBkPSJNMTguMjQ0IDIuMjVoMy4zMDhsLTcuMjI3IDguMjYgOC41MDIgMTEuMjRIMTYuMTdsLTUuMjE0LTYuODE3TDQuOTkgMjEuNzVIMS42OGw3LjczLTguODM1TDEuMjU0IDIuMjVIOC4wOGw0LjcxMyA2LjIzMXptLTEuMTYxIDE3LjUyaDEuODMzTDcuMDg0IDQuMTI2SDUuMTE3eiIvPjwvc3ZnPg%3D%3D)](https://x.com/asimovinc)
+&nbsp;[![YouTube](https://img.shields.io/badge/-@asimovinc-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@asimovinc)
 
+<img src="robots-row.gif" alt="Asimov humanoid teleoperation and locomotion" width="100%">
 
-![alt text](image.png)
+## Our goal: SOTA humanoid by Asimov 5
 
-## Build Manuals
+- **[Asimov 0](https://manual.asimov.inc/v0)** (open sourced 27 Jan 2026): bipedal legs built for those who want to understand locomotion from the ground up.
+- **[Asimov 1](https://manual.asimov.inc/v1)** (open sourced 27 Apr 2026): the full body humanoid — fully yours to assemble, customize and program.
+- **Asimov 2**: coming soon
 
-* [Asimov v1](https://manual.asimov.inc/v1): Humanoid whole body (Open sourced April 27, 2026)
-* [Asimov v0](https://manual.asimov.inc/v0): Humanoid legs (Open sourced Jan 2026)
+<!-- TODO: blueprint exploded-view image goes here (Mimi to provide) -->
 
-## Why?
+## Get involved
 
-We believe enabling embodied agents at scale requires the following:
+Asimov gets better the more people build alongside us.
 
-* **AI-software-hardware co-design**: for reliable sim2real transfer
-* **Modular components**: customizable limbs & actuators, with the right to repair
-* **Designed for manufacturing**: affordable, globally accessible parts with no shipping delays
+- **[Join the community](https://discord.gg/zHS5ejhZUE)**: Come hang out, ask questions, show off what you're building
+- **[Partner with us](https://tally.so/r/J9O5BJ)**: Manufacture Asimov with us
+- **[Get in touch](https://menlo.ai/talk)**: Deploy robots, collaborate on research, or find another way to work with us
 
-## Contribute
-
-* 👥 **Community**: Join the club on [Discord](https://discord.gg/zHS5ejhZUE)
-* 🔬 **Collaborations**: Interested in joint research? Join the [Discord](https://discord.gg/zHS5ejhZUE)
-* 💰 **Sponsor**: Become an early [Asimov Supporter](https://asimov.inc/early)
-* 🏭 **Manufacturers (OEMs, SIs)**: Want to sell a humanoid? [Contact us](https://tally.so/r/J9O5BJ)
-* 🛒 **Buyers**: Looking to buy a humanoid? [Contact us](https://tally.so/r/J9O5BJ)
-
-<br>
-
-Asimov is developed by [Menlo Research](https://menlo.ai). Our other "robots" in the wild include [Jan](https://jan.ai), a personal intelligence.
+<img src="community-row.png" alt="Asimov community events" width="100%">
