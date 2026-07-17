@@ -15,7 +15,7 @@ Asimov is an open reference humanoid by [Menlo Research](https://menlo.ai), desi
 - **[Asimov 1](https://docs.menlo.ai/asimov/1)** (open sourced 27 Apr 2026): the full body humanoid — fully yours to assemble, customize and program.
 - **Asimov 2**: coming soon
 
-<!-- TODO: blueprint exploded-view image goes here (Mimi to provide) -->
+<img src="blueprint.png" alt="Asimov humanoid exploded-view blueprint" width="100%">
 
 ## Get involved
 
