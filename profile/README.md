@@ -21,8 +21,6 @@ Asimov is an open reference humanoid by [Menlo Research](https://menlo.ai), desi
 
 Asimov gets better the more people build alongside us.
 
-<br>
-
 - **[Join the community](https://t.co/8gggn94xwi)**: Come hang out, ask questions, show off what you're building
 - **[Partner with us](https://menlo.ai/partners)**: Manufacture Asimov with us
 - **[Get in touch](https://menlo.ai/talk)**: Deploy robots, collaborate on research, or find another way to work with us
