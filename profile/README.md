@@ -7,7 +7,7 @@ Asimov is an open reference humanoid by [Menlo Research](https://menlo.ai), desi
 &nbsp;[![X](https://img.shields.io/badge/-@asimovinc-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xLjEgLTEgMjYgMjYiIGZpbGw9IndoaXRlIj48cGF0aCBkPSJNMTguMjQ0IDIuMjVoMy4zMDhsLTcuMjI3IDguMjYgOC41MDIgMTEuMjRIMTYuMTdsLTUuMjE0LTYuODE3TDQuOTkgMjEuNzVIMS42OGw3LjczLTguODM1TDEuMjU0IDIuMjVIOC4wOGw0LjcxMyA2LjIzMXptLTEuMTYxIDE3LjUyaDEuODMzTDcuMDg0IDQuMTI2SDUuMTE3eiIvPjwvc3ZnPg%3D%3D)](https://x.com/asimovinc)
 &nbsp;[![YouTube](https://img.shields.io/badge/-@asimovinc-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@asimovinc)
 
-<img src="robots-row.gif" alt="Asimov humanoid teleoperation and locomotion" width="100%">
+<img src="robots-row.png" alt="Building and demonstrating Asimov humanoids" width="100%">
 
 ## Our goal: SOTA humanoid by Asimov 5
 
