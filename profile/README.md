@@ -12,16 +12,16 @@ Asimov is an open reference humanoid by [Menlo Research](https://menlo.ai), desi
 ## Our goal: SOTA humanoid by Asimov 5
 
 - **[Asimov 0](https://docs.menlo.ai/asimov/0)** (open sourced 27 Jan 2026): bipedal legs built for those who want to understand locomotion from the ground up.
-- **[Asimov 1](https://docs.menlo.ai/asimov/1)** (open sourced 27 Apr 2026): the full body humanoid — fully yours to assemble, customize and program.
+- **[Asimov 1](https://docs.menlo.ai/asimov/1)** (open sourced 27 Apr 2026): educational humanoid for whole-body control and locomotion training.
 - **Asimov 2**: coming soon
 
-<img src="blueprint.png" alt="Asimov humanoid exploded-view blueprint" width="100%">
+<img src="asimov-1-composite.png" alt="Asimov 1 from exploded components to fully assembled humanoid" width="100%">
 
 ## Get involved
 
 Asimov gets better the more people build alongside us.
 
-- **[Join the community](https://t.co/8gggn94xwi)**: Come hang out, ask questions, show off what you're building
+- **Join our [Discord](https://discord.com/invite/HzDfGN7kUw) and [forum](https://forum.menlo.ai/)**: Come hang out, ask questions, show off what you're building
 - **[Partner with us](https://menlo.ai/partners)**: Manufacture Asimov with us
 - **[Get in touch](https://menlo.ai/talk)**: Deploy robots, collaborate on research, or find another way to work with us
 
